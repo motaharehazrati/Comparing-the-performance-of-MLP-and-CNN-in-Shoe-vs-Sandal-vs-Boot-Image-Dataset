@@ -1,0 +1,1 @@
+# Comparing-the-performance-of-MLP-and-CNN-in-Shoe-vs-Sandal-vs-Boot-Image-Dataset
